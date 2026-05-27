@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Regular;
+    src: url(fonts2/PlaywriteGBSGuides-Regular.ttf);
+}
+@font-face {
+    font-family:italic ;
+    src: url(fonts2/PlaywriteGBSGuides-Italic.ttf);
+}
+h1{
+    font-family: Regular,italic;
+}
+#p2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+   color: deeppink;
+}
+#p1{
+    font-family: Roboto;
+    color: rgb(48, 160, 160);
+}
